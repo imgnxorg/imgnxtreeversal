@@ -1,4 +1,25 @@
 {
   "name": "traverse-tree",
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.5.3",
+  "version": "1.0.0",
+  "description": "An app to help you traverse the output of `tree` as though it's an interactive node tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgnxorg/imgnxtreeversal.git"
+  },
+  "keywords": [
+    "tree",
+    "cli",
+    "traverse"
+  ],
+  "author": "Donald Wayne Moore Jr.",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/imgnxorg/imgnxtreeversal/issues"
+  },
+  "homepage": "https://github.com/imgnxorg/imgnxtreeversal#readme"
 }
